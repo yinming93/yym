@@ -48,8 +48,8 @@
         <div class="row">
           <div class="col-md-12">
             <span>Copyright@印茗网</span>|
-            <span>京ICP备110180686号</span>|
-            <span>京公网安备1101080201703</span>
+            <span>苏ICP备17055352号</span>|
+            <span>苏ICP备17055352号-1</span>
           </div>
         </div>
       </div>
